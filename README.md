@@ -13,5 +13,4 @@
 
 💻 Futuro Desenvolvedor FullStack Python, Atualmente iniciei no curso da EBAC e ORIGAMID.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
+[![devdymas(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
