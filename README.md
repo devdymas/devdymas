@@ -13,4 +13,4 @@
 
 💻 Futuro Desenvolvedor FullStack Python, Atualmente iniciei no curso da EBAC e ORIGAMID.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![devdymas](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
